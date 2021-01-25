@@ -1,0 +1,25 @@
+{
+  "name": "inttech-assgn5",
+  "version": "0.1.0",
+  "dependencies": {
+    "@babel/runtime": "^7.12.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "rest": "^2.0.0",
+    "sockjs-client": "^1.5.0",
+    "stompjs": "^2.3.3"
+  },
+  "scripts": {
+    "fe": "webpack --watch -d --output ./target/classes/static/built/bundle.js",
+    "be": "mvn spring-boot:run"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.0"
+  }
+}

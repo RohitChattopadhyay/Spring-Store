@@ -1,0 +1,14 @@
+html,body,#root  {
+    height: 100%;
+}
+/* .full-height {
+    height: 90%;
+} */
+.category .icon {
+    margin: .497em .7em;
+    font-size: 9.25em;
+}
+
+.border .fas, .cur-point  {
+    cursor: pointer;
+}
