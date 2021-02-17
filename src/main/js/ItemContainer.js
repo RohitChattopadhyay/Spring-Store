@@ -81,3 +81,10 @@ export default function ({col, category, cart, setCart, update}) {
     </div>
   );
 }  
+/*
+	Author : Rohit Chattopadhyay
+	Path : src/main/js/ItemContainer.js
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+*/
+

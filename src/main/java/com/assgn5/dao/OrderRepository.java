@@ -7,3 +7,12 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface OrderRepository extends JpaRepository<Order, Long> {}
+/*
+
+
+	Author : Rohit Chattopadhyay
+	Path : src/main/java/com/assgn5/dao/OrderRepository.java
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+*/
+

@@ -33,3 +33,16 @@ public class Category {
         return name;
     }
 }
+
+/*
+
+
+
+	Author : Rohit Chattopadhyay
+	Path : src/main/java/com/assgn5/model/Category.java
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+
+
+*/
+

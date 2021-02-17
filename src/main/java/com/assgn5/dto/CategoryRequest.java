@@ -15,3 +15,15 @@ public class CategoryRequest {
         return Category.builder().name(this.name).build();
     }
 }
+
+/*
+
+
+	Author : Rohit Chattopadhyay
+	Path : src/main/java/com/assgn5/dto/CategoryRequest.java
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+
+
+*/
+

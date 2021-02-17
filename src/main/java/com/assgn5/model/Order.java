@@ -23,3 +23,12 @@ public class Order {
     @ElementCollection
     private List<Item> items;
 }
+
+/*
+
+	Author : Rohit Chattopadhyay
+	Path : src/main/java/com/assgn5/model/Order.java
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+*/
+

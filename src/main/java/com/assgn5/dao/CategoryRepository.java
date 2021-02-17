@@ -7,3 +7,11 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface CategoryRepository extends JpaRepository<Category, Long> {}
+/*
+	Author : Rohit Chattopadhyay
+	Path : src/main/java/com/assgn5/dao/CategoryRepository.java
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+
+*/
+

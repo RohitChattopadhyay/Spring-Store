@@ -16,3 +16,12 @@ public class Item {
     private String name;
     private int qty;
 }
+
+/*
+
+	Author : Rohit Chattopadhyay
+	Path : src/main/java/com/assgn5/model/Item.java
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+*/
+

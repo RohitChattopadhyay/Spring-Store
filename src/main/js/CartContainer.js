@@ -62,3 +62,13 @@ export default function ({ col, cart, setCart }) {
     </div>
   );
 }  
+/*
+
+	Author : Rohit Chattopadhyay
+	Path : src/main/js/CartContainer.js
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+
+
+*/
+

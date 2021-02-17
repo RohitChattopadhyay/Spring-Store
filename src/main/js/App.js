@@ -41,3 +41,11 @@ export default function () {
     </div>
   );
 }  
+/*
+
+
+	Author : Rohit Chattopadhyay
+	Path : src/main/js/App.js
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+*/
+

@@ -9,3 +9,14 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+/*
+
+
+	Author : Rohit Chattopadhyay
+	Path : src/main/js/index.js
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+
+
+*/
+

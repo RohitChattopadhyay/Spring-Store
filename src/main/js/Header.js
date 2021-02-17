@@ -11,3 +11,13 @@ export default function () {
         </nav>
     );
 }  
+/*
+
+
+
+	Author : Rohit Chattopadhyay
+	Path : src/main/js/Header.js
+	Repository : https://github.com/RohitChattopadhyay/Spring-Store
+
+*/
+
